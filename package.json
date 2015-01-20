@@ -8,6 +8,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rhardin/node-scotchit.git"
+  },
   "keywords": [
     "stats",
     "scotch",
@@ -17,6 +21,7 @@
   "author": "Robert Hardin <rob@roberthardin.net> (http://www.roberthardin.net)",
   "license": "GPL",
   "dependencies": {
-    "csv": "^0.4.1"
+    "csv": "^0.4.1",
+    "pnormaldist": "^1.0.0"
   }
 }
