@@ -1,0 +1,22 @@
+{
+  "name": "scotchit",
+  "version": "1.0.0",
+  "description": "Statistical analysis on r/scotch whisky review archive to generate buy recommendations",
+  "homepage": "https://github.com/rhardin/node-scotchit",
+  "bugs": "https://github.com/rhardin/node-scotchit/issues",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "stats",
+    "scotch",
+    "reddit",
+    "scotchit"
+  ],
+  "author": "Robert Hardin <rob@roberthardin.net> (http://www.roberthardin.net)",
+  "license": "GPL",
+  "dependencies": {
+    "csv": "^0.4.1"
+  }
+}
