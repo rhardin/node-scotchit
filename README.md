@@ -16,17 +16,16 @@ I use this as a survey of Scotchit's ratings to make recommendations on scotch t
 ## Output on console
 ```
     Scotchit Whisky Rankings
-    Glenfarclas 40: 69%
-    Laphroaig Càirdeas Portwood: 67%
-    Ardbeg Uigeadail: 62%
-    Aberlour A'bunadh batch #36: 61%
-    Benrinnes 23: 58%
-    Benrinnes 14 AD Rattray Sherry Cask: 54%
-    Macallan Sherry Cask Strength: 51%
-    Lagavulin 12: 50%
-    Benrinnes 14 Lady of the Glen Single Cask 1999: 50%
-    Ardbeg Corryvreckan: 46%
-    Laphroaig 25 Cask Strength 2008: 45%
+    Glenfarclas 40: 69% $$$$
+    Laphroaig Càirdeas Portwood: 67% $$$$
+    Ardbeg Uigeadail: 63% $$$$
+    Aberlour A'bunadh batch #36: 61% $$$$
+    Benrinnes 23: 58% $$$$
+    Benrinnes 14 AD Rattray Sherry Cask: 54% $$$$
+    Macallan Sherry Cask Strength: 52% $$$$
+    Benrinnes 14 Lady of the Glen Single Cask 1999: 50% $$$$
+    Lagavulin 12: 50% $$$$
+    Ardbeg Corryvreckan: 46% $$$$
 ```
 
 ## Contributing
