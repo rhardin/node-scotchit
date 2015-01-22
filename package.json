@@ -1,6 +1,6 @@
 {
   "name": "scotchit",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Statistical analysis on r/scotch whisky review archive to generate buy recommendations",
   "homepage": "https://github.com/rhardin/node-scotchit",
   "bugs": "https://github.com/rhardin/node-scotchit/issues",
