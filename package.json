@@ -22,6 +22,6 @@
   "license": "GPL",
   "dependencies": {
     "csv": "^0.4.1",
-    "pnormaldist": "^1.0.0"
+    "statistics2": "0.0.1"
   }
 }
